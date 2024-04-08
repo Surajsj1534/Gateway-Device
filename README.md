@@ -2,7 +2,8 @@
 
 File Fortress is a web-based file management system designed for storing, retrieving, and managing files on a server. This project provides a user-friendly web interface for interacting with the server, including uploading, downloading, requesting, and deleting files. Additionally, it offers a directory page that allows users to view and search for files stored on the server.
 
-![Home page](Home.png)
+![Home page](![Home](https://github.com/Surajsj1534/Gateway-Device/assets/124913477/86a7b386-e955-484b-9aaa-df64f95f3d72)
+
 
 ## Features
 
